@@ -1,0 +1,7 @@
+- [[Accounts]] can schedule [[Transactions]] to be executed at a future [[Timestamp]]
+	- Those accounts must have sufficient funds to pay [[Transaction fees]]
+- On each confirmed [[Block]]
+	- Scheduled transactions with a timestamp lesser than or equal to the
+- When the next [[Block]] with a timestamp greater or equal is confirmed
+	- Scheduled transactions are executed first
+	- Then transactions in that block

@@ -1,0 +1,5 @@
+- [[Op]] for accessing special values
+	- In the [[State]]
+		- E.g. [[Timestamp]]
+	- Execution context
+		- E.g. [[Juice]]

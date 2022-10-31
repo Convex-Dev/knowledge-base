@@ -1,0 +1,5 @@
+alias:: \*sequence\*
+type:: [[Long]]
+
+- ---
+-

@@ -1,0 +1,5 @@
+alias:: (subset?)
+type:: [[Function]]
+
+- ---
+-

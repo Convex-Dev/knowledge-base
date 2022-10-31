@@ -1,0 +1,5 @@
+alias:: (address?)
+type:: [[Function]]
+
+- ---
+-

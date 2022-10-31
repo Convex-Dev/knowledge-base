@@ -1,0 +1,5 @@
+alias:: (split)
+type:: [[Function]]
+
+- ---
+-

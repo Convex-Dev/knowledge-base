@@ -1,0 +1,1 @@
+- A network of Peers, maintaining a consistent global state and executing state transitions according to the Consensus Algorithm and rules of the CVM.

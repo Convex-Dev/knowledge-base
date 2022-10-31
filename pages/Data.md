@@ -1,0 +1,3 @@
+- Any [[Value]] of any [[Type]] that is not an [[Op]]
+	- Cannot be executed directly
+	- Represents pure information

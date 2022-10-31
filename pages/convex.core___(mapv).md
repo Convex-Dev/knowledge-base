@@ -1,0 +1,5 @@
+alias:: (mapv)
+type:: [[Function]]
+
+- ---
+-

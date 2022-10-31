@@ -1,0 +1,2 @@
+- System maintaining an appendable sequence of [[Blocks]]
+- Enforced by [[Consensus]]

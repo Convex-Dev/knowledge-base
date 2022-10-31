@@ -1,0 +1,36 @@
+alias:: Types
+
+- ---
+- Information pattern consisting of
+	- A defined set of possible [[Values]]
+	- A defined set of operations on those values
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Data_type)
+- ---
+- [[Convex]] types
+	- Compose recursively
+	- Enable
+		- Efficient and secure replication of data across [[Peers]]
+		- Representation of [[Code]]
+- ---
+- Directly accessible in [[Transactions]]
+	- [[Address]]
+	- [[Blob]]
+	- [[Blob-Map]]
+	- [[Byte]]
+	- [[Char]]
+	- [[Double]]
+	- [[Function]]
+	- [[Keyword]]
+	- [[List]]
+	- [[Long]]
+	- [[Map]]
+	- [[Nil]]
+	- [[Ops]]
+	- [[Set]]
+	- [[String]]
+	- [[Symbol]]
+	- [[Vector]]
+- Used by [[Peers]] for [[Consensus]]
+	- [[Belief]]
+	- [[Block]]
+	- [[Transaction]]

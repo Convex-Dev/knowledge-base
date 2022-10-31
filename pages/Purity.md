@@ -1,0 +1,3 @@
+- An operation is considered pure if
+	- It is [[Deterministic]]
+	- Does not cause any [[Side effect]]

@@ -1,0 +1,5 @@
+alias:: (join)
+type:: [[Function]]
+
+- ---
+-

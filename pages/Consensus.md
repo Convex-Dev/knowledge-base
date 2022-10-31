@@ -1,0 +1,3 @@
+- Agreement reached in a decentralized network
+	- In spite of the presence of malicious agents
+- Convex relies on a novel approach called [[Convergent Proof of Stake]]

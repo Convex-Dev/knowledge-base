@@ -1,0 +1,5 @@
+alias:: (min)
+type:: [[Function]]
+
+- ---
+-

@@ -1,0 +1,5 @@
+alias:: (hash)
+type:: [[Function]]
+
+- ---
+-

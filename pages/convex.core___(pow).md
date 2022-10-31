@@ -1,0 +1,5 @@
+alias:: (pow)
+type:: [[Function]]
+
+- ---
+-

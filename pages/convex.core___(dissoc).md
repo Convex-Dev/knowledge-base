@@ -1,0 +1,5 @@
+alias:: (dissoc)
+type:: [[Function]]
+
+- ---
+-

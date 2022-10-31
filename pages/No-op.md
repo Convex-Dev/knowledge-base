@@ -1,0 +1,2 @@
+- "No operation"
+- Used for denoting that an operation does not have any effect

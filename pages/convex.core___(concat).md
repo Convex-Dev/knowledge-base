@@ -1,0 +1,5 @@
+alias:: (concat)
+type:: [[Function]]
+
+- ---
+-

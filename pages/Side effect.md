@@ -1,0 +1,6 @@
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science)
+- ---
+- When an operation produces a visible effect outside of its local execution scope
+- Examples
+	- Issuing a request to a server
+	- Writing a file

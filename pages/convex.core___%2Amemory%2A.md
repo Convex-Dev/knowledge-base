@@ -1,0 +1,5 @@
+alias:: \*memory\*
+type:: [[Long]]
+
+- ---
+-

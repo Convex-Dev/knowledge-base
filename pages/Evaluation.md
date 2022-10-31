@@ -1,0 +1,4 @@
+- [[Code]] goes through 3 steps in order to compute a result
+	- [[Expansion]]
+	- [[Compilation]]
+	- [[Execution]]

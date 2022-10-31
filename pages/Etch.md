@@ -1,0 +1,2 @@
+- Etch is the underlying Convex storage subsystem - "A database for information that needs to be carved in stone".
+- Etch implements Converge Immutable Storage for Data Objects.

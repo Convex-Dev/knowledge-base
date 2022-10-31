@@ -1,0 +1,7 @@
+- [[Collecion]] compatible with [[(assoc)]]
+- See
+	- [[Blob-Map]]
+	- [[List]]
+	- [[Map]]
+	- [[Set]]
+	- [[Vector]]

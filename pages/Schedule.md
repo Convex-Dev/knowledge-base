@@ -1,0 +1,2 @@
+- The Schedule is a feature in the CVM enabling CVM code to be scheduled for future execution. Once included in the Schedule, such code is *unstoppable* - it's execution is guaranteed by the protocol.
+- Scheduled code may be used to implement actors that take periodic actions, smart contracts that have defined behavior after a certain period of time etc.

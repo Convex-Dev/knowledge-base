@@ -1,0 +1,2 @@
+- Memory in Convex is a second native cryptocurrency (in addition to Convex Coins) that can be used to purchase on-chain storage capacity.
+  Users need to buy Memory if they want to execute transactions that increase the size of the State. USers get a refund if they execute Transactions that reduce the size of the State - creating a good incentive to use on-chain resources efficiently.

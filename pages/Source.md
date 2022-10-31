@@ -1,0 +1,3 @@
+- [[Code]] expressed as text
+- Usually written by a human
+- Must first be parsed into [[Data]] before the [[Convex Virtual Machine]] can handle it

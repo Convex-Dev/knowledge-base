@@ -1,0 +1,4 @@
+- When the network temporarily experiences a large volume of [[Transactions]]
+- During such high load, the price of [[Juice]] rises
+	- In order to disincentize non-urgence transactions
+	- Then drop back when normal load is restored

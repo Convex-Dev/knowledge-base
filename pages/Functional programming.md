@@ -1,0 +1,4 @@
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+- ---
+- Programming paradigm emphasizing [[Function]] composition
+- Usually favors [[Purity]] and the use of [[Persistent data structures]]

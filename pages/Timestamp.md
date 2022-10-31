@@ -1,0 +1,2 @@
+- Given point in time
+- [[Long]] expressing as a [[Unix timestamp]]

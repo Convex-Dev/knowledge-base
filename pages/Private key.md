@@ -1,0 +1,2 @@
+- A cryptographic key that can be used to digitally sign transactions.
+- Private Keys must be kept secure in order to prevent unauthorised access to Accounts and Digital Assets controlled by that Account.

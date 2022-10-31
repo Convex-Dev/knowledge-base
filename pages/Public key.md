@@ -1,0 +1,2 @@
+- A cryptographic key that can be used to validate transactions.
+- Public Keys may be safely shared with others, as they do not allow digital signatures to be created without the corresponding private key. User Accounts in Convex use an Ed25519 Public Key as the Account Keys, which enables any Peer to validate that a transaction for a given user has been signed with the correct Private Key.

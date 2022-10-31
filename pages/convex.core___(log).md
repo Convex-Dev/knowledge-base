@@ -1,0 +1,5 @@
+alias:: (log)
+type:: [[Function]]
+
+- ---
+-

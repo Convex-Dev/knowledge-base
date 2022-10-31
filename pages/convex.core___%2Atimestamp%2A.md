@@ -1,0 +1,5 @@
+alias:: \*timestmap\*
+type:: [[Long]]
+
+- ---
+-

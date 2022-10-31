@@ -1,0 +1,3 @@
+- Unit of computation
+- Each operation supported by the [[Convex Virtual Machine]] has a fixed cost in that unit
+- Priced in [[Convex Coins]]

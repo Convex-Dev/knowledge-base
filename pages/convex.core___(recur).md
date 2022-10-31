@@ -1,0 +1,5 @@
+alias:: (recur)
+type:: [[Function]]
+
+- ---
+-

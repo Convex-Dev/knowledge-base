@@ -1,0 +1,4 @@
+alias:: Smart contracts
+
+- A Smart Contract is a self-executing economic contract with the terms of the agreement written into lines of code that are executed deterministically on the CVM. Buyer and sellers can predict exactly how the Smart Contract will behave, and can therefore trust it to enforce contract terms and conditions effectively.
+- Typically a Smart Contract would be implemented using an Actor, but it is possible for a single Actor to manage many smart contracts, and likewise for a single Smart Contract to be executed across multiple Actors. It may be helpful to think of Smart Contracts as secure economic constructs, and Actors as a lower level implementation mechanism.

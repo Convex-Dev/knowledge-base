@@ -1,0 +1,5 @@
+alias:: (stake)
+type:: [[Function]]
+
+- ---
+-

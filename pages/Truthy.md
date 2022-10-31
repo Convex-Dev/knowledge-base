@@ -1,0 +1,2 @@
+- [[Values]] equating to [[Boolean/True]] in [[Conditionals]]
+- Everything but [[Falsy]] ones

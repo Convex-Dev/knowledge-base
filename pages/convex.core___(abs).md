@@ -1,0 +1,5 @@
+alias:: (abs)
+type:: [[Function]]
+
+- ---
+-

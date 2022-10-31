@@ -1,0 +1,1 @@
+- In [[Source]], anything following `;` is considered a comment and

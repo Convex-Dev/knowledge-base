@@ -1,0 +1,4 @@
+- Family of programming languages with a long history of innovation
+	- Introduced many concepts which later became mainstream
+	- New dialects keeps on exploring the limits of computer science
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))

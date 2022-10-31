@@ -1,0 +1,5 @@
+alias:: (vector?)
+type:: [[Function]]
+
+- ---
+-

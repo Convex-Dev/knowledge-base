@@ -1,0 +1,5 @@
+alias:: (declare)
+type:: [[Macro]]
+
+- ---
+-

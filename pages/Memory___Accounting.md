@@ -1,0 +1,2 @@
+- Memory Accounting is the process by which changes in Memory usage are attributed and charged to Users.
+- This is a necessary feature of Convex to create the right incentives to utilise on-chain memory efficiently. Without a system of Memory Accounting, there would be a risk of careless usage of Memory leading to ever-increasing size of the Global State (sometimes termed the "state growth problem" in Blockchains).

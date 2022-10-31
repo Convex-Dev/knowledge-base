@@ -1,0 +1,1 @@
+- [[Op]] acting as a sequential composition of other [[Ops]]

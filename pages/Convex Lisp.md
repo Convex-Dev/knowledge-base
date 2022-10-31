@@ -1,0 +1,10 @@
+- Programming language based on [[Lisp]]
+- Default language understood by the [[Convex Virtual Machine]]
+- Strongly based on [[Lambda calculus]]
+	- Hence [[Turing-complete]]
+- Prioritizes features well-suited to the development of [[Smart contracts]]
+	- Emphasis on [[Functional programming]]
+		- Reduces common errors
+		- Improves logical clarity
+	- Use of [[Persistent data structures]]
+	- [[Actor]]-based model enabling trusted autonomous execution of code

@@ -1,0 +1,3 @@
+- A Wallet is an application or device that stores keys (especially private keys) for Convex Accounts, enabling access and control over digital assets held by those accounts.
+- Wallet functionality may be provided by a Dapp, or embedded in any system that communicates with the Convex Network. It may also be a specialised hardware device (Hardware Wallet).
+- Wallet security is paramount: if access to the private keys in a wallet is compromised, any on-chain digital assets (coins, tokens, smart contract rights etc.) may be at risk.

@@ -1,0 +1,5 @@
+alias:: \*lang\*
+type:: [[Function]]
+
+- ---
+-

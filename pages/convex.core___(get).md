@@ -1,0 +1,5 @@
+alias:: (get)
+type:: [[Function]]
+
+- ---
+-

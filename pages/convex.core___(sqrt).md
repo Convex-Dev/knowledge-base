@@ -1,0 +1,5 @@
+alias:: (sqrt)
+type:: [[Function]]
+
+- ---
+-

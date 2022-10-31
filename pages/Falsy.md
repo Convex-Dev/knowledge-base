@@ -1,0 +1,4 @@
+- [[Values]] equating to [[False]] in [[Conditionals]]
+- Either
+	- [[False]] itself
+	- [[Nil]]

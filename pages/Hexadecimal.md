@@ -1,0 +1,2 @@
+- Base-16 representation for numbers
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Hexadecimal)

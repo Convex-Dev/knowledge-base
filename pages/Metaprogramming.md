@@ -1,0 +1,3 @@
+- [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Metaprogramming)
+- ---
+- Generation, analysis, and transformation of [[Code]] via [[Code]]

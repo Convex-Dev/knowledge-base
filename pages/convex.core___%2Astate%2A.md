@@ -1,0 +1,5 @@
+alias:: \*state\*
+type:: [[State]]
+
+- ---
+-

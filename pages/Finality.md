@@ -1,0 +1,3 @@
+- Guarantee that a [[Transaction]] cannot be altered or canceled
+- Only a [[Trusted peer]] can offer such a guarantee
+	- Transactions belonging to [[Confirmed blocks]] are effectively finalized

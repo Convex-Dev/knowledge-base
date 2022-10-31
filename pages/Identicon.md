@@ -1,0 +1,1 @@
+- An Icon generated in a pre-defined way that can be used to visually confirm if a value is identical to another value. Identicons are used in Convex to provide additional security for similar Addresses that might be hard to distinguish by the hexadecimal strings alone.

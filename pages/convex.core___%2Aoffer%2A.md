@@ -1,0 +1,5 @@
+alias:: \*offer\*
+type:: [[Function]]
+
+- ---
+-

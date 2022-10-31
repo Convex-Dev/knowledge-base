@@ -1,0 +1,5 @@
+alias:: (blob?)
+type:: [[Function]]
+
+- ---
+-

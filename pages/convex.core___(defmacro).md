@@ -1,0 +1,5 @@
+alias:: (defmacro)
+type:: [[Macro]]
+
+- ---
+-

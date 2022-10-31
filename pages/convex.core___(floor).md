@@ -1,0 +1,5 @@
+alias:: (floor)
+type:: [[Function]]
+
+- ---
+-

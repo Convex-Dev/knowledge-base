@@ -1,0 +1,5 @@
+alias:: (actor?)
+type:: [[Function]]
+
+- ---
+-

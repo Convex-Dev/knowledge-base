@@ -1,0 +1,5 @@
+alias:: (slice)
+type:: [[Function]]
+
+- ---
+-

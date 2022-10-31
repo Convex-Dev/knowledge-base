@@ -1,0 +1,5 @@
+alias:: (intersection)
+type:: [[Function]]
+
+- ---
+-

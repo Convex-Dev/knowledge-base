@@ -1,0 +1,1 @@
+- Number of [[Arguments]] taken by a [[Function]]

@@ -1,0 +1,5 @@
+alias:: (mapcat)
+type:: [[Function]]
+
+- ---
+-

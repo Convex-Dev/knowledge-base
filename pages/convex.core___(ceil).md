@@ -1,0 +1,5 @@
+alias:: (ceil)
+type:: [[Function]]
+
+- ---
+-

@@ -1,0 +1,2 @@
+- Autonomous entity implemented in CVM code on the Convex Network.
+- An Actor is defined with exactly one Account, but may send messages to and control assets managed by other Actors / Accounts.

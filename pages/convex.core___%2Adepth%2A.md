@@ -1,0 +1,5 @@
+alias:: \*depth\*
+type:: [[Long]]
+
+- ---
+-

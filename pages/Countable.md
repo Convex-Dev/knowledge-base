@@ -1,0 +1,12 @@
+- [[Type]] compatible with
+	- [[(count)]]
+	- [[(empty)]]
+	- [[(first)]]
+	- [[(last)]]
+	- [[(nth)]]
+	- [[(second)]]
+- ---
+- All [[Collections]] have this property
+- These [[Types]] not considered as complete [[Collections]] do as well
+	- [[Blob]]
+	- [[String]]

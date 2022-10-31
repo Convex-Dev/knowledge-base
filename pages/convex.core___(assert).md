@@ -1,0 +1,5 @@
+alias:: (assert)
+type:: [[Macro]]
+
+- ---
+-

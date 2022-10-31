@@ -1,0 +1,5 @@
+alias:: (difference)
+type:: [[Function]]
+
+- ---
+-

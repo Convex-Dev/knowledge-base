@@ -1,0 +1,7 @@
+- When two or more groups diverge in agreement, breaking [[Consensus]]
+- Creates significant problems since it breaks the single source of truth
+	- Akin to having parallel worlds
+	- E.g. An asset might have different ownership in different forks
+- ---
+- [[Convex]] is designed to prevent forks under most conditions
+- Handling a fork happening under exceptional conditions is a governance decision

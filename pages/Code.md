@@ -1,0 +1,7 @@
+- Instructions for the [[Convex Virtual Machine]]
+- Can be considered from 3 point of views
+	- [[Source]]
+	- [[Data]]
+		- See [[Homoiconicity]]
+	- [[Ops]]
+		- Resulting from [[Compilation]]
